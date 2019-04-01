@@ -3,3 +3,4 @@ results.html
 .bundle/*
 junit*
 chromedriver.log
+vendor

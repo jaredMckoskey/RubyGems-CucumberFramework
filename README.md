@@ -20,9 +20,10 @@ Build Status: [![Build Status]())]()
 
 # Windows
 
-1. Install Ruby, Pik, Bundler and Wac 
-2. Make sure you 'pik' Ruby
-3. In root directory, run 'bundle install'
-4. Then run 'rake'
+1. Install Ruby & RubyGems
+2. gem install bundler
+3. bundle install
+4. bundle update
+5. bundle package
 
 
